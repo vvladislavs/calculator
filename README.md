@@ -1,0 +1,1 @@
+Šis kalkulators ļauj veikt pamata aritmētiskās operācijas: saskaitīšanu, atņemšanu, reizināšanu un dalīšanu. Lietotājs var ievadīt skaitļus un izvēlēties operācijas, izmantojot pogas. Rezultāti tiek attēloti ekrānā, un ir paredzēta poga ievada dzēšanai.
